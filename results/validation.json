@@ -1,0 +1,13 @@
+{
+  "checks": [
+    "155 contiguous weekly changes",
+    "746 aligned daily observations",
+    "basis-point conversion",
+    "AIC and BIC formulas",
+    "eight complete holdout results",
+    "probability bounds",
+    "notebook schema, executed cells, no errors, four embedded charts"
+  ],
+  "status": "passed",
+  "execution": "Sequential in-process IPython; native kernel unavailable due to preinstalled package incompatibility"
+}
