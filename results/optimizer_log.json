@@ -1,0 +1,158 @@
+{
+  "IG_MS variance": [
+    {
+      "seed": 2400,
+      "converged": true,
+      "llf": -414.5521801730989,
+      "warnings": []
+    },
+    {
+      "seed": 2401,
+      "converged": true,
+      "llf": -414.55218019914986,
+      "warnings": []
+    },
+    {
+      "seed": 2402,
+      "converged": true,
+      "llf": -414.5521799924343,
+      "warnings": []
+    },
+    {
+      "seed": 2403,
+      "converged": true,
+      "llf": -414.5521802303257,
+      "warnings": []
+    }
+  ],
+  "IG_MS intercept+variance": [
+    {
+      "seed": 2400,
+      "converged": true,
+      "llf": -414.39986987414784,
+      "warnings": []
+    },
+    {
+      "seed": 2401,
+      "converged": true,
+      "llf": -414.3998697085681,
+      "warnings": []
+    },
+    {
+      "seed": 2402,
+      "converged": true,
+      "llf": -414.3998697210973,
+      "warnings": []
+    },
+    {
+      "seed": 2403,
+      "converged": true,
+      "llf": -414.39986985409416,
+      "warnings": []
+    }
+  ],
+  "IG_MS full": [
+    {
+      "seed": 2400,
+      "converged": true,
+      "llf": -410.60962613724877,
+      "warnings": []
+    },
+    {
+      "seed": 2401,
+      "converged": true,
+      "llf": -410.60962029946234,
+      "warnings": []
+    },
+    {
+      "seed": 2402,
+      "converged": true,
+      "llf": -410.60961659951397,
+      "warnings": []
+    },
+    {
+      "seed": 2403,
+      "converged": true,
+      "llf": -410.609618673114,
+      "warnings": []
+    }
+  ],
+  "HY_MS variance": [
+    {
+      "seed": 2400,
+      "converged": true,
+      "llf": -632.8773724064054,
+      "warnings": []
+    },
+    {
+      "seed": 2401,
+      "converged": true,
+      "llf": -632.8773724674652,
+      "warnings": []
+    },
+    {
+      "seed": 2402,
+      "converged": true,
+      "llf": -632.8773721751496,
+      "warnings": []
+    },
+    {
+      "seed": 2403,
+      "converged": true,
+      "llf": -632.8773723264104,
+      "warnings": []
+    }
+  ],
+  "HY_MS intercept+variance": [
+    {
+      "seed": 2400,
+      "converged": true,
+      "llf": -631.4270970516957,
+      "warnings": []
+    },
+    {
+      "seed": 2401,
+      "converged": true,
+      "llf": -631.4270975787902,
+      "warnings": []
+    },
+    {
+      "seed": 2402,
+      "converged": true,
+      "llf": -631.4270973207488,
+      "warnings": []
+    },
+    {
+      "seed": 2403,
+      "converged": true,
+      "llf": -631.4271368019748,
+      "warnings": []
+    }
+  ],
+  "HY_MS full": [
+    {
+      "seed": 2400,
+      "converged": true,
+      "llf": -628.9830235513028,
+      "warnings": []
+    },
+    {
+      "seed": 2401,
+      "converged": true,
+      "llf": -628.9830320514557,
+      "warnings": []
+    },
+    {
+      "seed": 2402,
+      "converged": true,
+      "llf": -628.9830234865328,
+      "warnings": []
+    },
+    {
+      "seed": 2403,
+      "converged": true,
+      "llf": -628.9830250069058,
+      "warnings": []
+    }
+  ]
+}
