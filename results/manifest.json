@@ -1,0 +1,44 @@
+{
+  "asof": "2026-11-03",
+  "data_status": "REAL FRED observations; no simulated values",
+  "acquisition": "Local CSV input. Bundled snapshot: FRED public table date/value pairs retrieved 2026-11-03. User replacements require separate provenance.",
+  "series": {
+    "DGS10": {
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10&cosd=1996-12-31&coed=2026-11-03",
+      "sha256": "953c062d0aaa555c4f0d90c44d2ed3452edc71d4f8aea381b54c416d29622a56",
+      "start": "2023-11-06",
+      "end": "2026-11-02",
+      "rows": 781,
+      "nonmissing": 747
+    },
+    "BAMLC0A0CM": {
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=1996-12-31&coed=2026-11-03",
+      "sha256": "879c3d4e6fa144f6928d5857a52d6a3ee03d840e856f926cc257b81d928cd8c7",
+      "start": "2023-11-06",
+      "end": "2026-11-02",
+      "rows": 792,
+      "nonmissing": 783
+    },
+    "BAMLH0A0HYM2": {
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=1996-12-31&coed=2026-11-03",
+      "sha256": "80931030750fa7cbcff6a6acc89ca823341ba6166464df04b8d1442142e7cd00",
+      "start": "2023-11-06",
+      "end": "2026-11-02",
+      "rows": 792,
+      "nonmissing": 784
+    }
+  },
+  "common_daily_n": 746,
+  "weekly_change_n": 155,
+  "weekly_start": "2023-11-17",
+  "weekly_end": "2026-10-30",
+  "holdout_start": "2025-12-12",
+  "python": "3.12.7",
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "scipy": "1.13.1",
+    "statsmodels": "0.14.2",
+    "matplotlib": "3.9.2"
+  }
+}
