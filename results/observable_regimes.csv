@@ -1,0 +1,7 @@
+asset,previous_week_HY,n,corr,beta,status
+IG,HY <400bp,151,-0.26634730408412594,-0.08997349945384418,estimated
+IG,HY 400–600bp,4,,,unavailable: fewer than 20 weeks
+IG,HY >=600bp,0,,,unavailable: fewer than 20 weeks
+HY,HY <400bp,151,-0.2172309713548084,-0.31578629680320747,estimated
+HY,HY 400–600bp,4,,,unavailable: fewer than 20 weeks
+HY,HY >=600bp,0,,,unavailable: fewer than 20 weeks
